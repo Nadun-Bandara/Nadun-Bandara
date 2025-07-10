@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Matale,Sri Lanka
 * ✉️  You can contact me at [nadunbandara16671@gmail.com](mailto:nadunbandara16671@gmail.com)
+* 🤝  I'm open to collaborating on 🤝 I'm open to collaborating on: - 🔧 Full-stack web apps (Spring Boot, MySQL, Angular) - 💇 Salon Management-related systems - 🖥️ JavaFX desktop apps
 
 <a href="https://www.github.com/Nadun-Bandara" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Nadun-Bandara?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
